@@ -1,5 +1,8 @@
 # vuejs-suburi
 
+
+[![Build Status](https://secure.travis-ci.org/tkfj/vuejs-suburi.png?branch=master)](http://travis-ci.org/tkfj/vuejs-suburi)
+
 > Vue.js training
 
 ## Build Setup
